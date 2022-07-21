@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id":"1",
+      "name": "ghazal",
+      "email": "gh.msk@gmail.com",
+      "phoneNumber": "09191234567",
+      "passwordConfirmation": "gh@1234",
+      "password": "gh@1234",
+      "gender": "1",
+      "nationality":"IR",
+      "lang":["fa"],
+      "terms":false
+    }
+  ]
+}
